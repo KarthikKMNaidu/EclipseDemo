@@ -15,7 +15,7 @@ public class Apple implements InterfaceB{
 	}
 
 	public void show() {
-		System.out.println("show in Apple");
+		System.out.println("show in Apple abc");
 	}
 	
 }
